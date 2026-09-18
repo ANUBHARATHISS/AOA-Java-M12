@@ -1,6 +1,6 @@
 
 # EX 2B Jump Game using Greedy Algorithm.
-## DATE:
+## DATE: 06-08-2026 
 ## AIM:
 To write a Java program to for given constraints.
 You are given an array of integers. Each number represents the maximum number of steps you can jump forward from that position.
@@ -40,6 +40,11 @@ If currentReach == i, return -1 (stuck, can’t progress).
 5.Display the result:
 Print the minimum number of jumps to reach the last index (or -1 if unreachable) and stop the program.
 ## Program:
+```
+Developed by : ANUBHARATHI SS
+Register No : 212223040017
+
+```
 ```
 import java.util.Scanner;
 
