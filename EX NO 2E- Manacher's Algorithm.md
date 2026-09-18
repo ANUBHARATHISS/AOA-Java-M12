@@ -1,6 +1,6 @@
 
 # EX 2E Pattern Matching using KMP Algorithm.
-## DATE:
+## DATE: 06-08-2026 
 ## AIM:
 To write a Java program for the following constraints.
 Longest Palindromic Substring
@@ -39,6 +39,11 @@ Compute the starting index in the original string as (cur - maxlen) / 2.
 Extract the substring from the original string using the computed start and length, print the Longest Palindromic Substring, and stop the program.
 
 ## Program:
+```
+Developed by : ANUBHARATHI SS
+Register No : 212223040017
+
+```
 ```
 import java.util.Scanner;
 
