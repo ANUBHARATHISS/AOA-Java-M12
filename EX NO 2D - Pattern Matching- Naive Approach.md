@@ -1,6 +1,6 @@
 
 # EX 2D Pattern Matching using Naive Approach.
-## DATE:
+## DATE: 06-08-2026 
 ## AIM:
 To write a Java program to for given constraints.
 Given text string with length n and a pattern with length m, the task is to prints all occurrences of pattern in text.
@@ -35,6 +35,11 @@ If all characters match (j == m), print "Pattern found at index i".
 Stop after scanning the entire text. 
 
 ## Program:
+```
+Developed by : ANUBHARATHI SS
+Register No : 212223040017
+
+```
 ```
 
 import java.util.Scanner;
